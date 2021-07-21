@@ -1,3 +1,5 @@
+![alt text](https://github.com/GlobalTrustCapital/gtc-assets/blob/aeb5befd2313b8d5f67b1e03aaeef355c7f36e08/icons/GTCLogo.png "GTC DAO")
+
 # GTC-DAO
 
 This is the code repo and documentation library for the GlobalTrust.Capital governance token currency and the DAO it is designed to serve; its members are its capital and its governors. This is a living document meant for the team to communicate with you about its journey and how to get there through the infancy of this project. The issues that need to be resolved until the smart contracts are deployed to handle the governance of this project in a truly decentralized manner will be addressed as Issues in the GitHub repository; the only real decentralized technology in a centralized world. This is our temporary bridge to the blockchain.
